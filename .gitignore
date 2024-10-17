@@ -39,6 +39,7 @@ package-lock.json
 .idea/
 
 # Other
+.env
 *.log
 *.dSYM/
 *.swp
